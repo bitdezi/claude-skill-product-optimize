@@ -14,7 +14,7 @@ cp SKILL.md ~/.claude/skills/product-optimize/SKILL.md
 Or clone and copy / 或克隆后复制:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-skill-product-optimize.git
+git clone https://github.com/bitdezi/claude-skill-product-optimize.git
 mkdir -p ~/.claude/skills/product-optimize
 cp claude-skill-product-optimize/SKILL.md ~/.claude/skills/product-optimize/
 ```
